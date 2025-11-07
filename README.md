@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Rafaela Lima
+### Oii!! Eu sou a Rafaela Lima
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,10 +8,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  #
  
 <div> 
   <a href = "mailto:lrafaela1632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lirafaela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/fb923f23-455e-4656-878f-8adc4ebf76fe)
